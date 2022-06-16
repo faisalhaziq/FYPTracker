@@ -1,0 +1,8 @@
+body{
+	padding-top:0px;
+}
+@media screen and (max-width:1300px){
+	body{
+    padding-top:250px;
+	}
+}
